@@ -1,0 +1,949 @@
+CRITICAL - 2022-01-07 13:32:42 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:32:47 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:32:59 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:33:00 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:33:01 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:33:01 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:33:01 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:33:01 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:33:01 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:33:38 --> syntax error, unexpected '[', expecting variable (T_VARIABLE)
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cate...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cate...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(18): spl_autoload_call('App\\Models\\Cate...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 13:35:44 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:44 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:45 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:45 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:45 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:45 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:46 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:46 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:46 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:47 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:35:47 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:36:00 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:36:01 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:36:01 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:36:01 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:36:01 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:36:02 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:37 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:37 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:37 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:38 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:38 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:38 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:51 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:52 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:52 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:53 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:53 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 13:37:53 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Categorias.php(21): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+ERROR - 2022-01-07 13:58:09 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 13:59:01 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 13:59:10 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 13:59:22 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 13:59:45 --> Unknown column 'data' in 'field list'
+ERROR - 2022-01-07 13:59:52 --> Unknown column 'data' in 'field list'
+ERROR - 2022-01-07 14:03:24 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:03:48 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:03:52 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:03:59 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:04:11 --> Column 'rua' cannot be null
+CRITICAL - 2022-01-07 14:06:40 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Cadastro.php(28): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 14:06:41 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Cadastro.php(28): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-01-07 14:06:42 --> There is no data to insert.
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Cadastro.php(28): CodeIgniter\Model->insert()
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+ERROR - 2022-01-07 14:09:22 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:09:29 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:10:25 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:10:36 --> Column 'rua' cannot be null
+CRITICAL - 2022-01-07 14:11:03 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:06 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:06 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:07 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:07 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:31 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:32 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:41 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:42 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:42 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:43 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:43 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:43 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:52 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:52 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:53 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:53 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:53 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:53 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:57 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:58 --> Call to a member function insert() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:11:58 --> Call to a member function insert() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:12:32 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:12:32 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:12:42 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:12:43 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:12:43 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:12:44 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:13:31 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:13:32 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:13:32 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:13:40 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:13:41 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:13:41 --> Call to a member function set() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+ERROR - 2022-01-07 14:13:42 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:13:42 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:13:48 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:13:59 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:14:03 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:14:05 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:14:06 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:14:09 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:14:37 --> Column 'rua' cannot be null
+ERROR - 2022-01-07 14:15:48 --> Column 'rua' cannot be null
+CRITICAL - 2022-01-07 14:23:51 --> syntax error, unexpected ')'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('cadastro/inseri...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('cadastro/inseri...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#6 {main}
+CRITICAL - 2022-01-07 14:23:52 --> syntax error, unexpected ')'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('cadastro/inseri...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('cadastro/inseri...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#6 {main}
+CRITICAL - 2022-01-07 14:48:55 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:48:56 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:48:57 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:02 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:09 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:09 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:10 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:10 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:10 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:46 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:46 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:47 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:47 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:47 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:48 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:48 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:48 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:49 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:49 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 14:49:49 --> Call to undefined method App\Controllers\Cadastro::where()
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 15:15:04 --> Call to a member function where() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 15:15:05 --> Call to a member function where() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 15:16:29 --> Call to a member function where() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 15:16:29 --> Call to a member function where() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 15:16:50 --> Call to a member function where() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 15:16:51 --> Call to a member function where() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 15:16:51 --> Call to a member function where() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 15:21:14 --> Call to a member function where() on null
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#5 {main}
+CRITICAL - 2022-01-07 16:15:13 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cada...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cada...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Cadastro.php(18): spl_autoload_call('App\\Models\\Cada...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 16:15:16 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cada...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cada...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Cadastro.php(18): spl_autoload_call('App\\Models\\Cada...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 16:15:16 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cada...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cada...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Cadastro.php(18): spl_autoload_call('App\\Models\\Cada...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}
+CRITICAL - 2022-01-07 16:21:15 --> syntax error, unexpected ''errors'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\wamp64\\www\\e...')
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cada...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cada...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\app\Controllers\Cadastro.php(18): spl_autoload_call('App\\Models\\Cada...')
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(825): App\Controllers\Cadastro->inserir()
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cadastro))
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#9 {main}

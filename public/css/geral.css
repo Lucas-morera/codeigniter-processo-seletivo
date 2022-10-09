@@ -1,0 +1,57 @@
+.centerDiv{
+    margin-left: auto;
+    margin-right: auto;
+    width: 28%;
+    margin-top:4rem;
+}
+.mb-2{
+    margin-bottom:0.6rem;
+}
+.button{
+    margin-left: 1.5rem;
+    width: 7.3rem;
+    height: 4.5vh;
+    background-color: #00bcd4;
+    color:aliceblue;
+    border:none;
+    cursor:pointer;
+}
+table {
+    border-collapse: collapse;
+    overflow-x: auto;
+    width: 100%;
+}
+  
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    padding:8px;
+}
+  
+
+.card{
+    margin-top: 4rem;
+    width: 80%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #00bcd4;
+    
+}
+.cartao{
+    text-align: left;
+    border-bottom: 0px!important;
+    padding: 1px!important;
+}
+.mt{
+    margin-top:3rem;
+}
+a:visited {
+    background-color: blue;
+    border-color: blue;
+    color: blue;
+  }
+.pb-1{
+   padding-bottom:1rem;
+}

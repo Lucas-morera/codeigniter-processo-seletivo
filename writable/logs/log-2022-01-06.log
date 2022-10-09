@@ -1,0 +1,106 @@
+CRITICAL - 2022-01-06 15:11:30 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:12:30 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:15:02 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:15:03 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:15:03 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:15:03 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:15:04 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:15:04 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:15:57 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-06 15:16:02 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('categorias/inse...')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('categorias/inse...')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-06 15:16:46 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Categorias')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Categorias')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-01-06 15:16:49 --> Undefined constant 'App\Controllers'
+#0 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(518): include_once()
+#1 C:\wamp64\www\entrevistaPHP\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Categorias/')
+#2 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Categorias/')
+#3 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\wamp64\www\entrevistaPHP\codeigniter\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\entrevistaPHP\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\entrevistaPHP\codeigniter\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
